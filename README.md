@@ -1,8 +1,8 @@
-# Inventory Management System (IVM)
+Inventory Management System (IVM)
 
 A full-featured Inventory Management System built with Flask and MySQL.
 
-## 🔧 Features
+Features
 
 - Admin Login
 - User Management (Admin only)
@@ -14,7 +14,7 @@ A full-featured Inventory Management System built with Flask and MySQL.
 -Role-based Access (Admin vs. Regular User)
 - Responsive UI with Bootstrap
 
-## 📦 Tech Stack
+Tech Stack
 
 - Python (Flask)
 - MySQL
